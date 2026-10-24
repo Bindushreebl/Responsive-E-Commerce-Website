@@ -115,3 +115,5 @@ Open `http://localhost:5173/` in your browser.
 - [x] Order history verification in UI
 - [x] Theme toggle between Dark and Light mode
 - [x] Responsive layout verified on desktop and mobile viewports
+
+
