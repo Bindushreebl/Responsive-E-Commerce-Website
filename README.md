@@ -117,3 +117,4 @@ Open `http://localhost:5173/` in your browser.
 - [x] Responsive layout verified on desktop and mobile viewports
 
 
+http://localhost:5173/
